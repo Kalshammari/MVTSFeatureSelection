@@ -14,11 +14,6 @@ This repository provides the implementation of the LSTM-based MVTS Feature Selec
 The models have been tested running under Python 3.9.7, with the required packages installed (see the requirements.txt for package details along with their dependencies). In addition, CUDA 11.1 in a Windows server has been used. 
 
 **LSTM-based MVTS Feature Selection Framework model**
-![Untitled Diagram](https://github.com/Kalshammari/MVTSFeatureSelection/assets/100083721/af186fea-b637-4f9f-91dd-d09f1a4d8660)
-
-**Classification varying training set size**
-
-![chart(2)](https://github.com/Kalshammari/MVTSFeatureSelection/assets/100083721/ec363a45-5f72-4ca7-8591-92495d3928fe)
-![chart](https://github.com/Kalshammari/MVTSFeatureSelection/assets/100083721/d3e925e1-a0ac-408f-8a06-f6859d9bef5e)
+![modelfinal1](https://user-images.githubusercontent.com/100083721/199178204-0f9d57e3-96a6-4d7b-9e95-bdfb7c03c6af.png)
 
 
